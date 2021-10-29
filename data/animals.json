@@ -153,6 +153,15 @@
         "anxious"
       ],
       "id": "15"
+    },
+    {
+      "name": "Heather",
+      "species": "Beast",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
     }
   ]
 }
