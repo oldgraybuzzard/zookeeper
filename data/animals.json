@@ -135,6 +135,24 @@
         "old"
       ],
       "id": "13"
+    },
+    {
+      "name": "Abe",
+      "species": "Ape",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "old"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Nuff",
+      "species": "Ape",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
     }
   ]
 }
